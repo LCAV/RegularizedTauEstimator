@@ -35,6 +35,23 @@ BC Building <br>
 Station 14 <br>
 1015 Lausanne
 
+Tau estimators
+--------------
+
+The Matlab implementation of the fast tau estimator and the regularized tau estimator is given in
+
+	FastTauFinal.m
+	FastTauRegFinal.m
+	
+Experiments
+-----------
+
+The scripts to generate Figures 2 and 3 from the paper are
+
+	tRegScriptFinal.m
+	tScriptFinal.m		
+
+To run them, you need fast tau algorithms, and the [CVX package](http://cvxr.com/cvx/). Set up the CVX path in your computer in the scripts before using them. 
 
 License
 -------
