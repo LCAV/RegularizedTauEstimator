@@ -51,7 +51,7 @@ The scripts to generate Figures 2 and 3 from the paper are
 	tRegScriptFinal.m
 	tScriptFinal.m		
 
-To run them, you need fast tau algorithms, and the [CVX package](http://cvxr.com/cvx/). Set up the CVX path in your computer in the scripts before using them. 
+To run them, you need the fast tau algorithms from last section, and the [CVX package](http://cvxr.com/cvx/). Set up the CVX path in your computer in the scripts before using them. 
 
 License
 -------
